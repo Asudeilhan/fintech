@@ -1,0 +1,352 @@
+[
+  {
+    "cardNumber": "4276 1234 5678 0001",
+    "cardPassword": "1111",
+    "cvv": "101",
+    "expiryDate": "02/30",
+    "iban": "TR000000000000000000000001"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0002",
+    "cardPassword": "1112",
+    "cvv": "102",
+    "expiryDate": "03/30",
+    "iban": "TR000000000000000000000002"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0003",
+    "cardPassword": "1113",
+    "cvv": "103",
+    "expiryDate": "04/30",
+    "iban": "TR000000000000000000000003"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0004",
+    "cardPassword": "1114",
+    "cvv": "104",
+    "expiryDate": "05/30",
+    "iban": "TR000000000000000000000004"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0005",
+    "cardPassword": "1115",
+    "cvv": "105",
+    "expiryDate": "06/30",
+    "iban": "TR000000000000000000000005"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0006",
+    "cardPassword": "1116",
+    "cvv": "106",
+    "expiryDate": "07/30",
+    "iban": "TR000000000000000000000006"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0007",
+    "cardPassword": "1117",
+    "cvv": "107",
+    "expiryDate": "08/30",
+    "iban": "TR000000000000000000000007"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0008",
+    "cardPassword": "1118",
+    "cvv": "108",
+    "expiryDate": "09/30",
+    "iban": "TR000000000000000000000008"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0009",
+    "cardPassword": "1119",
+    "cvv": "109",
+    "expiryDate": "10/30",
+    "iban": "TR000000000000000000000009"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0010",
+    "cardPassword": "1120",
+    "cvv": "110",
+    "expiryDate": "11/30",
+    "iban": "TR000000000000000000000010"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0011",
+    "cardPassword": "1121",
+    "cvv": "111",
+    "expiryDate": "12/30",
+    "iban": "TR000000000000000000000011"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0012",
+    "cardPassword": "1122",
+    "cvv": "112",
+    "expiryDate": "01/30",
+    "iban": "TR000000000000000000000012"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0013",
+    "cardPassword": "1123",
+    "cvv": "113",
+    "expiryDate": "02/30",
+    "iban": "TR000000000000000000000013"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0014",
+    "cardPassword": "1124",
+    "cvv": "114",
+    "expiryDate": "03/30",
+    "iban": "TR000000000000000000000014"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0015",
+    "cardPassword": "1125",
+    "cvv": "115",
+    "expiryDate": "04/30",
+    "iban": "TR000000000000000000000015"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0016",
+    "cardPassword": "1126",
+    "cvv": "116",
+    "expiryDate": "05/30",
+    "iban": "TR000000000000000000000016"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0017",
+    "cardPassword": "1127",
+    "cvv": "117",
+    "expiryDate": "06/30",
+    "iban": "TR000000000000000000000017"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0018",
+    "cardPassword": "1128",
+    "cvv": "118",
+    "expiryDate": "07/30",
+    "iban": "TR000000000000000000000018"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0019",
+    "cardPassword": "1129",
+    "cvv": "119",
+    "expiryDate": "08/30",
+    "iban": "TR000000000000000000000019"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0020",
+    "cardPassword": "1130",
+    "cvv": "120",
+    "expiryDate": "09/30",
+    "iban": "TR000000000000000000000020"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0021",
+    "cardPassword": "1131",
+    "cvv": "121",
+    "expiryDate": "10/30",
+    "iban": "TR000000000000000000000021"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0022",
+    "cardPassword": "1132",
+    "cvv": "122",
+    "expiryDate": "11/30",
+    "iban": "TR000000000000000000000022"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0023",
+    "cardPassword": "1133",
+    "cvv": "123",
+    "expiryDate": "12/30",
+    "iban": "TR000000000000000000000023"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0024",
+    "cardPassword": "1134",
+    "cvv": "124",
+    "expiryDate": "01/30",
+    "iban": "TR000000000000000000000024"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0025",
+    "cardPassword": "1135",
+    "cvv": "125",
+    "expiryDate": "02/30",
+    "iban": "TR000000000000000000000025"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0026",
+    "cardPassword": "1136",
+    "cvv": "126",
+    "expiryDate": "03/30",
+    "iban": "TR000000000000000000000026"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0027",
+    "cardPassword": "1137",
+    "cvv": "127",
+    "expiryDate": "04/30",
+    "iban": "TR000000000000000000000027"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0028",
+    "cardPassword": "1138",
+    "cvv": "128",
+    "expiryDate": "05/30",
+    "iban": "TR000000000000000000000028"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0029",
+    "cardPassword": "1139",
+    "cvv": "129",
+    "expiryDate": "06/30",
+    "iban": "TR000000000000000000000029"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0030",
+    "cardPassword": "1140",
+    "cvv": "130",
+    "expiryDate": "07/30",
+    "iban": "TR000000000000000000000030"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0031",
+    "cardPassword": "1141",
+    "cvv": "131",
+    "expiryDate": "08/30",
+    "iban": "TR000000000000000000000031"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0032",
+    "cardPassword": "1142",
+    "cvv": "132",
+    "expiryDate": "09/30",
+    "iban": "TR000000000000000000000032"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0033",
+    "cardPassword": "1143",
+    "cvv": "133",
+    "expiryDate": "10/30",
+    "iban": "TR000000000000000000000033"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0034",
+    "cardPassword": "1144",
+    "cvv": "134",
+    "expiryDate": "11/30",
+    "iban": "TR000000000000000000000034"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0035",
+    "cardPassword": "1145",
+    "cvv": "135",
+    "expiryDate": "12/30",
+    "iban": "TR000000000000000000000035"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0036",
+    "cardPassword": "1146",
+    "cvv": "136",
+    "expiryDate": "01/30",
+    "iban": "TR000000000000000000000036"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0037",
+    "cardPassword": "1147",
+    "cvv": "137",
+    "expiryDate": "02/30",
+    "iban": "TR000000000000000000000037"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0038",
+    "cardPassword": "1148",
+    "cvv": "138",
+    "expiryDate": "03/30",
+    "iban": "TR000000000000000000000038"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0039",
+    "cardPassword": "1149",
+    "cvv": "139",
+    "expiryDate": "04/30",
+    "iban": "TR000000000000000000000039"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0040",
+    "cardPassword": "1150",
+    "cvv": "140",
+    "expiryDate": "05/30",
+    "iban": "TR000000000000000000000040"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0041",
+    "cardPassword": "1151",
+    "cvv": "141",
+    "expiryDate": "06/30",
+    "iban": "TR000000000000000000000041"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0042",
+    "cardPassword": "1152",
+    "cvv": "142",
+    "expiryDate": "07/30",
+    "iban": "TR000000000000000000000042"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0043",
+    "cardPassword": "1153",
+    "cvv": "143",
+    "expiryDate": "08/30",
+    "iban": "TR000000000000000000000043"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0044",
+    "cardPassword": "1154",
+    "cvv": "144",
+    "expiryDate": "09/30",
+    "iban": "TR000000000000000000000044"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0045",
+    "cardPassword": "1155",
+    "cvv": "145",
+    "expiryDate": "10/30",
+    "iban": "TR000000000000000000000045"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0046",
+    "cardPassword": "1156",
+    "cvv": "146",
+    "expiryDate": "11/30",
+    "iban": "TR000000000000000000000046"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0047",
+    "cardPassword": "1157",
+    "cvv": "147",
+    "expiryDate": "12/30",
+    "iban": "TR000000000000000000000047"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0048",
+    "cardPassword": "1158",
+    "cvv": "148",
+    "expiryDate": "01/30",
+    "iban": "TR000000000000000000000048"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0049",
+    "cardPassword": "1159",
+    "cvv": "149",
+    "expiryDate": "02/30",
+    "iban": "TR000000000000000000000049"
+  },
+  {
+    "cardNumber": "4276 1234 5678 0050",
+    "cardPassword": "1160",
+    "cvv": "150",
+    "expiryDate": "03/30",
+    "iban": "TR000000000000000000000050"
+  }
+]
